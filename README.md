@@ -9,3 +9,5 @@
 7. Get the supportion from the client.
 8. Build a quick template for client from your repos quickly.
 9. Send it to your clients.
+10. Now you must get the text from your client for the website's content.
+11. You must simply it for text-accessiblility.
