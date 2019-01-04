@@ -15,3 +15,31 @@ p {
     margin: 0 auto;
     width: 900px;
 }
+
+p, ul, li, h1, h2, h3, h4 {
+    margin: 0;
+}
+
+h3 {
+    margin: 0 0 20px 0;
+    padding: 0 0 5px 0;
+    font-weight: bold;
+    border-bottom: 1px solid #ccc;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#content, #sidebar {
+    margin: 40px 0 20px 0;
+}
+
+#content h4 {
+    font-weight: bold;
+    font-size: 1.4em;
+}
+
+#content li p {
+    margin: 0 0 70px 0;
+}
