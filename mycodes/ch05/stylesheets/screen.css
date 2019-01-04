@@ -9,7 +9,7 @@ body {
 	padding: 0;
 	font-family: Verdana, sans-serif;
 	color: #333;
-	background: #912824;
+	background: #91d8ac;
 }
 
 h1 {
@@ -33,7 +33,7 @@ p {
 }
 
 #nav {
-	background: #829E84;
+	background: #447236;
 	border-top: 2px solid #439E5B;
 }
 
@@ -73,8 +73,8 @@ gives nice contrast for the eye.
 	margin: 0 auto;
 	width: 800px;
 	background: #eee;
-	border-left: 10px solid #560000;
-	border-right: 10px solid #560000;
+	border-left: 10px solid #3ea565;
+	border-right: 10px solid #3ea565;
 }
 
 #masthead {
