@@ -83,7 +83,7 @@ span.amp {
 #subnav ul li {
 	float: left;
 	margin: 0;
-	padding: 7px 20px 7px 0;
+	padding: 15px 10px 15px 10px;
 	font-size: 1.4em;
 }
 
@@ -104,8 +104,20 @@ in the sub-navigation.
 	text-decoration: none;
 }
 
-#subnav p {
-	width: 800px;
+#subnav li a.webdesign {
+	background: url('../images/webdesign_icon.png') no-repeat left center;
+}
+
+#subnav li a.animation {
+	background: url('../images/animation_icon.png') no-repeat left center;
+}
+
+#subnav li a.game {
+	background: url('../images/game_icon.png') no-repeat left center;
+}
+
+#subnav li a.writing {
+	background: url('../images/writing_icon.png') no-repeat left center;
 }
 
 #wrap {
