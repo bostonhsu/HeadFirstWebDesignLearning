@@ -69,6 +69,10 @@ span.amp {
 	border-right: 1px solid #777;
 }
 
+#nav a.active {
+	background: #222;
+}
+
 #subnav {
 	margin: 0;
 	padding: 0;
