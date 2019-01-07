@@ -60,9 +60,13 @@ span.amp {
 }
 
 #nav a {
-	color: #fff;
 	float: left;
-	padding: 20px 20px 20px 0;
+	width: 104px;
+	height: 65px;
+	padding: 10px 0 0 10px;
+	color: #fff;
+	text-decoration: none;
+	border-right: 1px solid #777;
 }
 
 #subnav {
